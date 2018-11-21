@@ -2,7 +2,11 @@
     {
         "name": "product_owner",
         "description": "product owner",
-        "value": "Ivan Pesin <ivanpesin@...>"
+        "value": {
+            "full_name": "Ivan Pesin",
+            "email": "ivanpesin@wf.com"",
+            "team_link": null
+        }
     },
     {
         "name": "capabilities",
