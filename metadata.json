@@ -1,12 +1,12 @@
 {
   "name": "java_wrapper",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "author": "rew",
   "summary": "Wraps java module.",
   "license": "Apache-2.0",
   "source": "http://github.com/puppetlabs/UtopicSoft/java_wrapper",
   "project_page": "http://github.com/puppetlabs/UtopicSoft/java_wrapper",
-  "tags": ["tag1", "tag2", "tag3"],
+  "tags": ["java", "jdk", "wrapper"],
   "dependencies": [
     {
       "name": "puppetlabs/stdlib",
