@@ -19,29 +19,11 @@
         "value": [
             {
                 "operating_system": "windows",
-                "versions": [ 
-                    {
-                        "version": "4.9.1",
-                        "is_tested": true
-                    },
-                    {
-                        "version": "4.9.2",
-                        "is_tested": true
-                    },
-                    {
-                        "version": "5.0.0", 
-                        "is_tested": false
-                    }
-                ]
+                "versions": ["4.9.1", "4.9.2", "5.0.0"]
             },
             {
                 "operating_system": "RedHat",
-                "versions": [
-                    {
-                        "version": "5.0.1", 
-                        "is_tested": false
-                    }
-                ]
+                "versions": ["5.0.1"]
             }
         ]
     },
