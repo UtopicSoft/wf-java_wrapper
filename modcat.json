@@ -40,7 +40,7 @@
     {
         "name": "is_orderable",
         "description": "Property unknown to MC: is the product orderable?",
-        "value": true
+        "value": false
     },
     {
         "name": "stacks",
