@@ -2,9 +2,9 @@
   "name": "java_wrapper",
   "version": "0.0.3",
   "author": "rew",
-  "summary": "Wraps java module.",
+  "summary": "A wrapper for a generic java module.",
   "license": "Apache-2.0",
-  "source": "http://github.com/puppetlabs/UtopicSoft/java_wrapper",
+  "source": "https://github.com/UtopicSoft/wf-java_wrapper",
   "project_page": "http://github.com/puppetlabs/UtopicSoft/java_wrapper",
   "tags": ["java", "jdk", "wrapper"],
   "dependencies": [
