@@ -34,8 +34,8 @@
     },
     {
         "name": "is_deprecated",
-        "description": "Denoted whether the module can be used for new deployments",
-        "value": false
+        "description": "Denotes whether the module can be used for new deployments",
+        "value": true
     },
     {
         "name": "is_orderable",
