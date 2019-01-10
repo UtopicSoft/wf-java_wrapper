@@ -35,7 +35,7 @@
     {
         "name": "is_deprecated",
         "description": "Denotes whether the module can be used for new deployments",
-        "value": true
+        "value": false
     },
     {
         "name": "is_orderable",
