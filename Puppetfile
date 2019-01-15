@@ -1,4 +1,4 @@
-mod 'java',
+mod 'javaa',
   :git => "git@github.wellsfargo.com:wf-forge/puppet-avamar.git",
   :ref => '18.3.10'
 mod 'avamar',
