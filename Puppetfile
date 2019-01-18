@@ -1,6 +1,6 @@
 mod 'java',
   :git => "git@github.wellsfargo.com:wf-forge/puppet-avamar.git",
-  :ref => '18.3.9'
+  :ref => '11.0.1'
 mod 'avamar',
   :git => "git@github.wellsfargo.com:wf-forge/puppet-avamar.git",
   :ref => '0.1.1'
