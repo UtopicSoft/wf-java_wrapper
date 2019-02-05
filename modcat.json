@@ -51,14 +51,5 @@
         "name": "note",
         "description": "Free-form notes on this module",
         "value": "Please, use this module for *ALL* installation of jvm across the fleet"
-    },
-    {
-        "name": "is_tested_by_rew",
-        "description": "Certify that this module has been tested",
-        "value": {
-            "id": "ykozak",
-            "date": "2010-01-10"
-        }
-       
     }
 ]
